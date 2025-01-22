@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Blueprints/BP_Tank.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Maps/Main.umap",
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Blueprints/BP_ToonTanksGameMode.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Blueprints/Start_Widget.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Blueprints/BP_Projectile.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Blueprints/Win_WIdget.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Blueprints/Game_Over_Widget.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Blueprints/Won_Widget.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Blueprints/Lose_Widget.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/ToonTanks/Content/Blueprints/BP_Game_Mode.uasset"
+			]
+		}
+	]
+}
